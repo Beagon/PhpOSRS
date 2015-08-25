@@ -11,4 +11,4 @@ Authors
 Reporting an issue or a feature request
 ---------------------------------------
 
-Issues and feature requests are tracked in the [GitHub issue tracker](#InsertLinkHereIfYouSeeThisITotallyForgotToPutInTheLinkAfterCreatingTheGitPage).
+Issues and feature requests are tracked in the [GitHub issue tracker](https://github.com/Thunderofnl/PhpOSRS/issues).
