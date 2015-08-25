@@ -1,0 +1,23 @@
+
+{
+    "name" : "Beagon/PhpOSRS",
+    "type" : "library",
+    "description" : "PHP wrapper for the Oldschool Runescape HiScore API",
+    "keywords" : [
+        "php",
+        "runescape",
+        "hiscore",
+        "jagex"
+    ],
+    "license" : "MIT",
+    "authors" : [{
+            "name" : "Robin Rijkeboer",
+            "email" : "rmrijkeboer@gmail.com"
+        }
+    ],
+    "autoload" : {
+        "psr-0" : {
+            "PhpOSRS\\" : "lib/"
+        }
+    }
+}
